@@ -1,11 +1,10 @@
 # HW_Week1_Day5_ListAndSets 😃                                         
 ---
-The Home Work has three components to be delievered before 9AM:
+The Home Work has three components to be delievered before 9AM: ⚠️
 - Practice with Scope Functions.
 - Practice with Lists and Sets.
 - Practice with Maps.
-- ...
-> Note: You must save all your solution as `solution.kt` to be submitted before 9AM.
+> Note: You must save all your solution as `solution.kt` to be submitted before 9AM. ⚠️
 # Instructions 📋
 
 ## Part I - Practice with Scope Functions.
