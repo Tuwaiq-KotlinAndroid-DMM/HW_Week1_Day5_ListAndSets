@@ -19,7 +19,7 @@ The Home Work has three components to be delievered before 9AM: ⚠️
 ## Part III - Practice with Maps.
 ---
 ### Write an asnwer to this question: What are the cases that I need to use the map for
-### Create a map of 20 elements of strings and doubles
+### Create a map of 20 elements of string key and double value
 
 # Learning Resources  📚
 * [Scope Functions in Kotlin](https://kotlinlang.org/docs/scope-functions.html)
