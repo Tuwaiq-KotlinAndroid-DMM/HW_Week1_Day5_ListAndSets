@@ -13,8 +13,7 @@ The Home Work has three components to be delievered before 9AM: ⚠️
 
 ## Part II - Practice with Lists and Sets.
 ---
-### Create a list and access an array and return a data from it, the update or add elements to it
-### Create a list and access out of its bounds by managing the array errors safety in 3 examples
+### Create a list and return a data from it, the update or add elements to it
 ### Create a list then add repetitive and unique elements to it, the convert it to set, then add new elements to it and check the set value
 
 ## Part III - Practice with Maps.
